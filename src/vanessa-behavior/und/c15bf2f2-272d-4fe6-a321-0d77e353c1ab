@@ -6,7 +6,7 @@
 {0,
 {1,
 {0,0,fcd4c9b7-5f30-4115-afa3-5ddd71a1c140},"VanessaBehavior",
-{20,"ru","Vanessa Behavior","en","Vanessa Bahavior","am","Vanessa Behavior","az","Vanessa Behavior","bg","Vanessa Behavior","et","Vanessa Behavior","fr","Vanessa Behavior","ka","Vanessa Behavior","de","Vanessa Behavior","hu","Vanessa Behavior","it","Vanessa Behavior","lv","Vanessa Behavior","lt","Vanessa Behavior","mn","Vanessa Behavior","pl","Vanessa Behavior","ro","Vanessa Behavior","sl","Vanessa Behavior","es","Vanessa Behavior","sv","Vanessa Behavior","tr","Vanessa Behavior"},"",0,0}
+{20,"ru","Vanessa Behavior","en","Vanessa Bahavior","am","ግምገማ ባህሪ","az","Vanessa Behavior","bg","Ванеса Behavior","et","Vanessa Behavior","fr","Vanessa Behavior","ka","Vanessa ქცევა","de","Vanessa Behavior","hu","Vanessa Viselkedés","it","Vanessa Behavior","lv","Vanessa Behavior","lt","Vanessa Behavior","mn","Ванесса Зан","pl","Vanessa Behavior","ro","Vanessa Behavior","sl","Vanessa Vedenje","es","Vanessa Behavior","sv","Vanessa Beteende","tr","Vanessa Behavior"},"",0,0}
 },8a6e31ea-f13c-4c95-8d5e-d9639f345b83,"",813effc7-9383-4845-a4fa-2f5481e5a12b},4,
 {2bcef0d1-0981-11d6-b9b8-0050bae0a95d,0},
 {3daea016-69b7-4ed4-9453-127911372fe6,2,5c906d2e-8b05-11e5-b599-9cd21ef5a847,04165c0c-257d-476c-9a34-7595c2695b76},
@@ -123,7 +123,7 @@
 {2,
 {1,
 {0,0,533a26ed-ea27-4523-a57d-023be95a6d58},"АдресОтладчика",
-{20,"ru","Адрес отладчика","en","Debugger url","am","Debugger ዩአርኤል","az","Ayıklama URL-ünvanı","bg","Дебъгер URL-адрес","et","Siluri url","fr","Débogueur url","ka","Debugger url","de","Debugger url","hu","Hibakereső url","it","Debugger url","lv","Atkļūdotājs url","lt","Derintuvas url","mn","Дибаг url","pl","Debugger ","ro","Depanator url","sl","Iskalnik napak url","es","Depurador de url","sv","Debugger url","tr","Hata ayıklayıcı url"},"",0,0},
+{20,"ru","Адрес отладчика","en","Debugger url","am","አድራሻ ነው debugger","az","Ünvanı var ayıklama","bg","Адрес за изчистване на грешки","et","Aadress siluri","fr","Adresse du débogueur","ka","მისამართი debugger","de","Die Adresse des Debuggers","hu","A cím a debugger","it","L'indirizzo del debugger","lv","Adrese atkļūdotājs","lt","Adresas debugger","mn","Хаяг дибаг","pl","Adres debugera","ro","Adresa depanator","sl","Naslov razhroščevalnik","es","La dirección del depurador","sv","Adress debugger","tr","Adresi hata ayıklayıcı"},"",0,0},
 {"Pattern",
 {"S",50,1}
 }
@@ -270,7 +270,7 @@
 {2,
 {1,
 {0,0,8251dbcf-7681-47f7-9207-c9c2fbac9b97},"ДелатьЛогВыполненияСценариевВТекстовыйФайл",
-{20,"ru","Делать лог выполнения сценариев в текстовый файл","en","Make log to text file","am","በቀዳሚ ግምገማዎች ላይ የሚሰጡዋቸውን ጽሑፍ ፋይል","az","Nə jurnal mətn faylı","bg","Направи регистър в текстов файл","et","Teha logi, et teksti fail","fr","Faire du journal dans un fichier texte","ka","რათა შესვლა ტექსტური ფაილი","de","Machen log to text file","hu","Hogy napló szöveges fájl","it","Effettuare il log in un file di testo","lv","Padarīt žurnālu, lai teksta failu","lt","Kad prisijungti į tekstinį failą","mn","Хийх нэвтэрч тулд текст файл","pl","Zrobić log do pliku tekstowego","ro","Face log fișier text","sl","Da se prijavite do besedilne datoteke","es","Hacer el registro en un archivo de texto","sv","Göra logga till en textfil","tr","Metin dosyasına olun"},"",0,0},
+{20,"ru","Делать лог выполнения сценариев в текстовый файл","en","Make log to text file","am","ጋር ስለጀመሩ ቅድሚያ የሚሰጡዋቸውን ውስጥ ጽሑፍ ፋይል","az","Bunu günlük yerinə ssenarilər mətn faylı","bg","Правя лог изпълнение на скрипт в текстов файл","et","Teha log skriptide täitmise tekstifaili","fr","Faire le journal de l'exécution des scripts dans un fichier texte","ka","ამის შესვლა აწარმოებს სკრიპტები ტექსტური ფაილი,","de","Tun die log-Skripte in einer Textdatei","hu","A napló scriptek futtatását egy szöveges fájl","it","Fare un log di esecuzione di script in un file di testo","lv","Darīt log izpildes skriptu ar teksta failu","lt","Daryti žurnalo vykdymo scenarijai į tekstinį failą","mn","Хийх бүртгэлийн ажиллуулах скриптүүд нь текст файл","pl","Zrobić log z wykonania skryptu w pliku tekstowym","ro","A face log script într-un fișier text","sl","Da ne log zaženete skripte v besedilno datoteko","es","Hacer un log de ejecución de secuencias de comandos en un archivo de texto","sv","För att göra det loggar köra skript i en textfil","tr","Yapmak günlük komut dosyası bir metin dosyası"},"",0,0},
 {"Pattern",
 {"B"}
 }
@@ -858,7 +858,7 @@
 {2,
 {1,
 {0,0,40b1a642-6565-46d5-9eda-554b325627a0},"ЗапускатьТестКлиентВРежимеОтладки",
-{20,"ru","Запускать TestClient в режиме отладки","en","Run TestClient in debug mode","am","አዳዲስ ግምገማዎች TestClient ውስጥ..","az","Run TestClient rejimində debug","bg","Тече TestClient в режим на отстраняване на грешки","et","Run TestClient aastal debug mode","fr","Exécuter TestClient en mode debug","ka","Run TestClient in გამართვის რეჟიმი","de","Führen Sie TestClient im debug-Modus","hu","Fuss TestClient debug módban","it","Eseguire TestClient in modalità di debug","lv","Palaist TestClient, debug režīmā","lt","Paleisti TestClient į derinimo režimą,","mn","Ажиллуулах TestClient д дибаг хийх горим","pl","Uruchomić TestClient w trybie debugowania","ro","Rula TestClient în modul de depanare","sl","Teči TestClient v debug načinu","es","Ejecutar TestClient en modo de depuración","sv","Kör TestClient i debug-läge","tr","Hata ayıklama modunda çalıştırın TestClient"},"",0,0},
+{20,"ru","Запускать TestClient в режиме отладки","en","Run TestClient in debug mode","am","ቅድሚያ TestClient ውስጥ..","az","Run TestClient rejimində debug","bg","Тичам TestClient в режим на отстраняване на грешки","et","Käivitada TestClient silumisrežiimis","fr","Exécuter TestClient en mode de débogage","ka","აწარმოებს TestClient in გამართვის რეჟიმი","de","Ausführen von Testclient im Debugmodus","hu","Hogy fut a TestClient debug módban","it","Eseguire TestClient in modalità di debug","lv","Palaist TestClient atkļūdošanas režīmā","lt","Paleisti TestClient debug režimu","mn","Ажиллуулах TestClient д дибаг хийх горим","pl","Uruchomić TestClient w trybie debugowania","ro","Pentru a rula TestClient în modul de depanare","sl","Če želite zagnati TestClient v debug načinu","es","Ejecutar TestClient en modo de depuración","sv","Att köra TestClient i debug-läge","tr","Çalıştırmak TestClient hata ayıklama modunda"},"",0,0},
 {"Pattern",
 {"B"}
 }
@@ -1278,7 +1278,7 @@
 {2,
 {1,
 {0,0,840a1222-1134-4e9c-8b6b-3e6b43832313},"КлючиОтладки",
-{20,"ru","Ключи отладки","en","Debug keys","am","አንድ ቁልፎች","az","Düymələri debug","bg","Ключове за отстраняване на грешки","et","Debug võtmed","fr","Debug clés","ka","გამართვის ღილაკები","de","Debug-Tasten","hu","Debug kulcsok","it","Eseguire il Debug di tasti","lv","Atkļūdošanas atslēgas","lt","Derinimo raktai","mn","Дибаг түлхүүрүүд","pl","Klucze debugowania","ro","Debug chei","sl","Tipke Debug","es","Depuración de las teclas","sv","Felsöka nycklar","tr","Hata ayıklama anahtarları"},"",0,0},
+{20,"ru","Ключи отладки","en","Debug keys","am","ቁልፎች መጠቀም","az","Düymələri debug","bg","Ключове за отстраняване на грешки","et","Võtmed silumine","fr","Les clés de débogage","ka","გასაღებები გამართვის","de","Schlüssel Debuggen","hu","A kulcs, hogy hibakeresés","it","Le chiavi di debug","lv","Atslēgas atkļūdošanas","lt","Raktai derinimo","mn","Түлхүүрүүд нь дибаг хийх","pl","Klucze debugowania","ro","Cheile de depanare","sl","Tipke za razhroščevanje","es","Las claves de depuración","sv","Nycklarna till felsökning","tr","Anahtarlar hata ayıklama"},"",0,0},
 {"Pattern",
 {"S",20,1}
 }
@@ -2049,7 +2049,7 @@
 {2,
 {1,
 {0,0,444c19dc-031b-4574-9456-46d0bbab779c},"ТаймаутЗапуска1С",
-{20,"ru","Таймаут запуска TestClient","en","Timeout on TestClient connection","am","ቅድሚያ በግራ TestClient.","az","Taym-aut azn əlaqədar TestClient","bg","Тайм-аут за TestClient връзка","et","Aegumise kohta TestClient ühendus","fr","Délai de connexion TestClient","ka","დროის on TestClient კავშირი","de","Timeout auf TestClient Verbindung","hu","Időtúllépés a TestClient kapcsolat","it","Il Timeout di connessione TestClient","lv","Taimauts TestClient savienojums","lt","Timeout dėl TestClient ryšys","mn","Хугацааны хувьд TestClient холболт","pl","Limit czasu na TestClient związku","ro","Timeout pe TestClient conexiune","sl","Timeout na TestClient povezava","es","Tiempo de espera de conexión TestClient","sv","Timeout på TestClient anslutning","tr","TestClient bağlantıda zaman aşımı"},"Таймаут запуска TestClient в секундах",0,0},
+{20,"ru","Таймаут запуска TestClient","en","Timeout on TestClient connection","am","ቅድሚያ የታዘዘ TestClient","az","Fasilə başlamaq TestClient","bg","Изчакване на стартирането TestClient","et","Timeout käivitada TestClient","fr","Délai de démarrage TestClient","ka","დროის აწარმოებს TestClient","de","Timeout von Testclient starten","hu","Timeout fut TestClient","it","Il timeout di avvio TestClient","lv","Man. palaišanas TestClient","lt","Osd paleisti TestClient","mn","Хугацааны хувьд ажиллуулах TestClient","pl","Limit czasu uruchomienia TestClient","ro","Depășirea timpului de pornire TestClient","sl","Časovna omejitev za vožnjo TestClient","es","El tiempo de espera de inicio de TestClient","sv","Timeout köra TestClient","tr","Zaman aşımı başlangıç TestClient"},"Таймаут запуска TestClient в секундах",0,0},
 {"Pattern",
 {"N",2,0,1}
 }
@@ -2070,7 +2070,7 @@
 {2,
 {1,
 {0,0,17188653-ed0c-4672-bd1f-4f01f3898d39},"ДиапазонПортовTestclient",
-{20,"ru","Диапазон портов testclient","en","Ports dimension","am","Ports ልኬት","az","Port ölçü","bg","Пристанища за измерване","et","Sadamate mõõde","fr","Les Ports de dimension","ka","პორტები განზომილება","de","Ports dimension","hu","Portok dimenzió","it","Porte di dimensione","lv","Ostas dimensija","lt","Uostų aspektas","mn","Портын хэмжээс","pl","Porty pomiaru","ro","Porturi de dimensiune","sl","Vrata dimenzije","es","Los puertos de la dimensión","sv","Hamnar dimension","tr","Port Boyutlar"},"",0,0},
+{20,"ru","Диапазон портов testclient","en","Ports dimension","am","ቅድሚያ የታዘዘ ነው ports testclient","az","Bir sıra limanları testclient","bg","Диапазон на портове по testclient","et","Portide testclient","fr","La plage de ports testclient","ka","სპექტრი პორტები testclient","de","Portbereich von Testclient","hu","A tartomány portok testclient","it","L'intervallo di porte testclient","lv","Portu diapazonu testclient","lt","Prievadus testclient","mn","Тархац портын testclient","pl","Zakres portów testclient","ro","Gama de porturi testclient","sl","Območju pristanišča testclient","es","El rango de puertos testclient","sv","Utbudet av portar testclient","tr","Bağlantı noktası aralığı testclient"},"",0,0},
 {"Pattern",
 {"S"}
 }
@@ -2112,7 +2112,7 @@
 {2,
 {1,
 {0,0,d56bcfbb-9446-4aa4-9591-f7d13f90c923},"ЯзыкГенератораGherkin",
-{20,"ru","Язык генератора gherkin","en","Language of gherkin generator","am","ቋንቋ ነው gherkin.","az","Dil generator xiyarı","bg","Език генератор на корнишони","et","Keel kornišon generaator","fr","La langue de cornichon générateur","ka","ენა gherkin გენერატორი","de","Die Sprache Gurke generator","hu","Nyelv uborka generátor,","it","La lingua di cetriolino generatore","lv","Valoda īsaugļu gurķi ģenerators","lt","Kalba agurku generatorius","mn","Хэл gherkin generator","pl","Język alternatora ogórek","ro","Limbajul gherkin generator","sl","Jezik kumare za vlaganje generator","es","El lenguaje de pepinillo generador","sv","Språk gurka generator","tr","Acur jeneratör dili"},"",0,0},
+{20,"ru","Язык генератора gherkin","en","Language of gherkin generator","am","ቋንቋ ቅድሚያ gherkin","az","Dil generator gherkin","bg","Език генератор gherkin","et","Keel generaator gherkin","fr","La langue de l'alternateur gherkin","ka","ენა გენერატორი gherkin","de","Sprache gherkin generator","hu","Nyelv generátor uborka","it","Il linguaggio del generatore gherkin","lv","Valoda ģeneratora gherkin","lt","Kalba generatorius gherkin","mn","Хэл generator gherkin","pl","Język alternatora gherkin","ro","Limba generator gherkin","sl","Jezik generator kumare za vlaganje","es","El idioma del generador gherkin","sv","Språket generator gurka","tr","Dil jeneratör gherkin"},"",0,0},
 {"Pattern",
 {"S"}
 }
