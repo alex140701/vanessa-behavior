@@ -1,22 +1,22 @@
 ﻿Строка поиска	Перевод
-Фичи загружены	Features loaded
-Работаю по сценарию	Running scenario
-Шаг	Step
-не выполнен	failed
-Сеанс должен быть запущен с ключом TESTMANAGER.	The session must be started with the TESTMANAGER key.
-TestClient НЕ подключен.	TestClient is NOT connected.
-Технические данные	Technical details
-ИмяФайла	FileName
-ИмяПроцедуры	ProcedureName
-ВерсияVB	VanessaVersion
-ВерсияПлатформы	PlatformVersion
-РежимСовместимостиTestManager	TestManagerCompatibilityMode
-Не использовать	Not use
-Выполнение сценариев закончено. Ошибок не было.	The execution of the scenarios is over. Tthere were no errors.
-Выполнение сценариев закончено. БЫЛИ ОШИБКИ!	The execution of the scenarios is over. THERE ARE ERRORS!
-Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Port %1 is busy or out of specified range, the connection port is changed to %2
-TestClient подключен на %1 порту.	TestClient is connected to the %1 port.
-Построение дерева.	Building tree.
-Уже открытый TestClient подключен на %1 порту.	An already open TestClient is connected to the %1 port.
-Получить изменения формы	Get changes of the form
-Получить состояние всей формы	Get the state of the whole form
+Фичи загружены	Фичи загружены
+Работаю по сценарию	Работаю по сценарию
+Шаг	Шаг
+не выполнен	не выполнен
+Сеанс должен быть запущен с ключом TESTMANAGER.	Сеанс должен быть запущен с ключом TESTMANAGER.
+TestClient НЕ подключен.	TestClient НЕ подключен.
+Технические данные	Технические данные
+ИмяФайла	ИмяФайла
+ИмяПроцедуры	ИмяПроцедуры
+ВерсияVB	ВерсияVB
+ВерсияПлатформы	ВерсияПлатформы
+РежимСовместимостиTestManager	РежимСовместимостиTestManager
+Не использовать	Не использовать
+Выполнение сценариев закончено. Ошибок не было.	Выполнение сценариев закончено. Ошибок не было.
+Выполнение сценариев закончено. БЫЛИ ОШИБКИ!	Выполнение сценариев закончено. БЫЛИ ОШИБКИ!
+Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2	Порт %1 занят или находится вне указанного диапазона, порт подключения изменен на %2
+TestClient подключен на %1 порту.	TestClient подключен на %1 порту.
+Построение дерева.	Построение дерева.
+Уже открытый TestClient подключен на %1 порту.	Уже открытый TestClient подключен на %1 порту.
+Получить изменения формы	Получить изменения формы
+Получить состояние всей формы	Получить состояние всей формы
