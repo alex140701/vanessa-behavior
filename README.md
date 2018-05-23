@@ -1,8 +1,16 @@
 ﻿# vanessa-behavior
 
-[![Открытый чат проекта https://gitter.im/silverbulleters/vanessa-behavoir](https://badges.gitter.im/silverbulleters/vanessa-behavior.svg)](https://gitter.im/silverbulleters/vanessa-behavoir?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
-[![Build Status](http://ci.silverbulleters.org/buildStatus/icon?job=Vanessa-Behavior-Develop)](http://ci.silverbulleters.org/job/Vanessa-Behavior-Develop/)
-[![Crowdin](https://d322cqt584bo4o.cloudfront.net/vanessa-services/localized.svg)](https://crowdin.com/project/vanessa-services)
+# DEPRECATED - репозиторий устарел
+
+проект объединен в единый общий репозиторий **ADD**
+
+https://github.com/silverbulleters/add - объединенный проект содержит в себе
+
+* BDD - bddRunner
+* TDD - tddRunner
+* единые расширения для тестирования
+
+инсталяция при помощи команды `opm install add` из единого хаба пакетов проекта http://oscript.io
 
 ## BDD for 1С:Enterprise
 
